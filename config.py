@@ -1,2 +1,2 @@
-prefix = 'prefix'
+prefix = 'fucked!'
 token = "bots token"
